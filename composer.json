@@ -2,10 +2,7 @@
     "name": "stepzerosolutions/base",
     "description": "Stepzero solutions base plugin",
     "require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0",
-        "magento/framework": "2.0.0",
-	"composer/composer": "@alpha",
-        "magento/magento-composer-installer": "*"
+        "php": "~5.5.0|~5.6.0|~7.0.0"
     },
     "type": "magento2-module",
     "version": "1.0.0",
